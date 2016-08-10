@@ -1,0 +1,16 @@
+#pic {
+    position: absolute;
+    z-index: -98;
+    top: 0;
+    left: 0;
+    background-image: url ('http://wallpaperfast.com/wp-content/uploads/2013/05/Calm-sea-breeze-notebook-background-images-Desktop-Wallpaper.jpg');
+    display: none;
+}
+#bat {
+    position: absolute;
+    z-index: -98;
+    top: 0;
+    left: 0;
+    background-image: url('http://www.designmyprofile.com/images/graphics/backgrounds/background0172.jpg');
+    display: none;
+}

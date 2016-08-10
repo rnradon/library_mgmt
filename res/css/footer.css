@@ -1,0 +1,30 @@
+
+
+.footer {
+    padding-top: 20px;
+    color: #efefef;
+    background-color: #333;
+    position: absolute;
+    width: 100%;
+}
+
+.list-unstyled {
+    padding-top: 10px;
+}
+
+.sec-footer {
+    background-color: #1c1a18;
+    color: #efefef;
+    text-align: center;
+    padding: 30px;
+}
+
+.container h4{
+	font-size: px;
+}
+
+.container li a{
+	font-size: 17px;
+	text-decoration: none;
+	color: #999999;
+}

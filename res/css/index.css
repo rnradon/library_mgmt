@@ -1,0 +1,28 @@
+.searchWrap { 
+
+    background-image: url("../img/index-page.jpg");
+    height: 607px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    /*height: auto;*/
+    padding-top: 220px;
+    padding-bottom: 190px;
+    text-align: center;
+    
+}
+
+.whatsonCont{
+    display: flex;
+    padding-left:7% 
+}
+
+@media only screen and (max-width: 768px) {
+    .whatsonCont{
+        display: flex;
+        align-items: center;
+        padding-left: 7%;
+    }
+}
